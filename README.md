@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### Thanks for visiting my GitHub. 
 - 🔭 I’m currently working on a full stack online Poker application, using React Native and Spring Boot
-- 🌱 I’m currently learning C++, and am going to start my 2nd year at Cambridge University in October
+- 🌱 I’m currently learning C++, and am in my 2nd year at Cambridge University studying Computer Science
 - 📫 How to reach me: jude-stephen-hill@outlook.com or jsh85@cam.ac.uk (Cambridge email)
   
 
